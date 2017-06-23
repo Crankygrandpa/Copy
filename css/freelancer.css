@@ -68,7 +68,7 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: #037558;
+  background: #06AD81;
   color: white;
 }
 header .container {
@@ -181,7 +181,7 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background: #fff;
+  background: #06AD81;
   color: white;
 }
 @media (max-width: 767px) {
