@@ -41,4 +41,14 @@
         });
     });
 
-})(jQuery); // End of use strict
+})(jQuery); 
+<!-- Global site tag (gtag.js) - Google Ads: 657593143 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-657593143"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-657593143');
+</script>
+// End of use strict
